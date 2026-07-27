@@ -1,4 +1,7 @@
 # PPRN
-Official implementation of Polarization Prompt-guided Restoration Network (PPRN) for underwater image restoration 
-Once the paper is accepted, the code will be made available.
-<img width="985" height="341" alt="image" src="https://github.com/user-attachments/assets/cd7bca22-f7ec-4048-b6c7-aaacd1a142de" />
+The experimental datasets adopted in our study are sourced from three public open repositories:
+RGBP-UIE: https://github.com/yudongLi-dlmu/RGBP-UIE
+UPGD: https://github.com/jgy0/UPGD
+ZeroDiff-Net: https://github.com/weifeng827/ZeroDiff-Net
+All the underwater images, polarization data and paired underwater enhancement samples used for training and testing can be acquired from these three open projects.
+Great gratitude is extended to the authors of the above projects for sharing datasets and promoting open research on underwater image restoration.
