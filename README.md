@@ -1,5 +1,5 @@
-# PPRN
-Official implementation of Polarization Prompt-guided Restoration Network (PPRN) for underwater image restoration 
+# PPLN
+Official implementation of A Polarization Prompt Learning Network with Dual Transposed Attention for Underwater Image Restoration 
 Once the paper is accepted, the code will be made available.
 <img width="985" height="341" alt="image" src="https://github.com/user-attachments/assets/cd7bca22-f7ec-4048-b6c7-aaacd1a142de" />
 ## Dataset Sources
